@@ -1,4 +1,9 @@
-[<img src="https://travis-ci.org/tinify/tinify-python.svg?branch=master" alt="Build Status">](https://travis-ci.org/tinify/tinify-python)
+[![MIT License](http://img.shields.io/badge/license-MIT-green.svg) ](https://github.com/tinify/tinify-python/blob/main/LICENSE)
+[![CI](https://github.com/tinify/tinify-python/actions/workflows/run-tests.yml/badge.svg)](https://github.com/tinify/tinify-python/actions/workflows/run-tests.yml)
+![PyPI](https://img.shields.io/pypi/v/tinify)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tinify)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/tinify)
+
 
 # Tinify API client for Python
 
