@@ -29,7 +29,7 @@ tinify.from_file('unoptimized.png').to_file('optimized.png')
 
 ```
 pip install -r requirements.txt -r test-requirements.txt
-nosetests
+py.test
 ```
 
 To test more runtimes, tox can be used
@@ -44,7 +44,7 @@ tox
 
 ```
 pip install -r requirements.txt -r test-requirements.txt
-TINIFY_KEY=$YOUR_API_KEY nosetests test/integration.py
+TINIFY_KEY=$YOUR_API_KEY py.test test/integration.py
 ```
 
 ## License
