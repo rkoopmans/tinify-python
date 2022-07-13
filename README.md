@@ -37,7 +37,7 @@ pip install -r requirements.txt -r test-requirements.txt
 py.test
 ```
 
-To test more runtimes, tox can be used
+To test more runtimes, tox can be used or something else
 
 ```
 tox
