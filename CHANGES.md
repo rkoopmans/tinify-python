@@ -1,3 +1,6 @@
+# 1.6.1
+Add python 3.12 as supported runtime
+
 ## 1.6.0
 * Updated runtime support
     * Dropped 2.6
